@@ -1,0 +1,10 @@
+pyqt5==5.15.4
+librosa==0.8.1
+numpy==1.19.3
+tqdm==4.62.3
+websocket-client==1.3.2
+pandas==1.4.1
+jieba==0.42.1
+gensim==3.7.1
+Pyaudio==0.2.11
+torch==1.10.2+cu102
